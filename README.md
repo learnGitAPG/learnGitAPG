@@ -1,7 +1,5 @@
-
-
-- 👋 Welcome to My GitHub Profile!
--- About Me --
+👋 Welcome to My GitHub Profile!
+- About Me -
   I'm a passionate System Engineer with a strong background in Mechanical Design Engineering. 
   With a Master's degree in Mechanical Design Engineering and a keen interest in software development, 
   I bring a unique blend of skills and knowledge to the table.
